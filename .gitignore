@@ -57,3 +57,7 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+android/app/
+android/gradle/
+android/app
+android/gradle
